@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="13px" height="14px" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(1 0 0 1 -1079 -23 )">
-    <path d="M 1079.5 23.5  L 1091.5 23.5  L 1091.5 36.5  L 1079.5 36.5  L 1079.5 23.5  Z " fill-rule="nonzero" fill="#f2f2f2" stroke="none" />
-    <path d="M 1079.5 23.5  L 1091.5 23.5  L 1091.5 36.5  L 1079.5 36.5  L 1079.5 23.5  Z " stroke-width="1" stroke="#797979" fill="none" />
-    <path d="M 1079.36639674581 23.3945811108757  L 1091.63360325419 36.6054188891243  M 1091.63360325419 23.3945811108757  L 1079.36639674581 36.6054188891243  " stroke-width="1" stroke="#797979" fill="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="8px" height="8px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 -567 -26 )">
+    <path d="M 567.5 26.5  L 574.5 26.5  L 574.5 33.5  L 567.5 33.5  L 567.5 26.5  Z " fill-rule="nonzero" fill="#f2f2f2" stroke="none" />
+    <path d="M 567.5 26.5  L 574.5 26.5  L 574.5 33.5  L 567.5 33.5  L 567.5 26.5  Z " stroke-width="1" stroke="#797979" fill="none" />
+    <path d="M 567.353553390593 26.3535533905933  L 574.646446609407 33.6464466094067  M 574.646446609407 26.3535533905933  L 567.353553390593 33.6464466094067  " stroke-width="1" stroke="#797979" fill="none" />
   </g>
 </svg>

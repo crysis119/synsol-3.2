@@ -104,6 +104,9 @@
 .sticky_1 {
   text-align:left;
 }
+.sticky_4 {
+  text-align:left;
+}
 .arrow {
 }
 .text_field {
@@ -136,10 +139,22 @@
   color:#000000;
   text-align:left;
 }
+.droplist {
+  color:#000000;
+  text-align:left;
+}
 .connector {
   font-size:18px;
 }
 .image1 {
   color:#000000;
+}
+.ellipse1 {
+}
+.icon1 {
+}
+.shape2 {
+}
+._连接线 {
 }
 textarea, select, input, button { outline: none; }
